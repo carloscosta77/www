@@ -17,11 +17,11 @@ Execute tests
 
 The API has the following endpoints:
 
-GET api/users - List Users
-GET api/users/{id} - View User
-POST api/users - Create User
-PUT api/users/{id} - Update User
-DELETE api/users/{id} - Delete User
+<p>GET api/users - List Users</p>
+<p>GET api/users/{id} - View User</p>
+<p>POST api/users - Create User</p>
+<p>PUT api/users/{id} - Update User</p>
+<p>DELETE api/users/{id} - Delete User</p>
     
 
 Seed db with random data
